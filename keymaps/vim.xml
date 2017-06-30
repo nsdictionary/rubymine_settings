@@ -1,0 +1,12 @@
+<keymap version="1" name="vim" parent="Mac OS X 10.5+">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl i" />
+  </action>
+  <action id="EditorRight">
+    <keyboard-shortcut first-keystroke="right" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
+  <action id="ImplementMethods" />
+</keymap>
