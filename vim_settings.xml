@@ -30,12 +30,12 @@
         <mark key="]" line="16" column="18" />
         <mark key="." line="8" column="10" />
       </file>
-      <file name="$USER_HOME$/Workspace/sentbe-rails-restful/app/notifier/user_notifier.rb" timestamp="1498724895452">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="96" column="46" />
-        <mark key="]" line="96" column="51" />
-        <mark key="^" line="96" column="51" />
-        <mark key="." line="96" column="51" />
+      <file name="$USER_HOME$/Workspace/sentbe-rails-restful/app/notifier/user_notifier.rb" timestamp="1498790851146">
+        <mark key="'" line="117" column="0" />
+        <mark key="[" line="3" column="38" />
+        <mark key="]" line="3" column="40" />
+        <mark key="." line="3" column="40" />
+        <mark key="^" line="3" column="40" />
       </file>
       <file name="$USER_HOME$/Workspace/sentbe-rails-restful/config/locales/text_messages/id.yml" timestamp="1498722798034">
         <mark key="'" line="0" column="0" />
@@ -44,9 +44,18 @@
         <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/sentbe-rails-restful/lib/encrypted2.php" timestamp="1498788317484" />
+      <file name="$USER_HOME$/Workspace/sentbe-rails-restful/config/locales/text_messages/en.yml" timestamp="1498789359135">
+        <mark key="[" line="4" column="6" />
+        <mark key="]" line="4" column="19" />
+      </file>
       <file name="$USER_HOME$/Workspace/sentbe-rails-restful/app/mailers/invitation_mailer.rb" timestamp="1498709070248">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="62" />
+      </file>
+      <file name="$USER_HOME$/Workspace/sentbe-rails-restful/config/locales/mailers/user_mailer/ko.yml" timestamp="1498624415096">
+        <mark key="'" line="29" column="14" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="30" column="27" />
       </file>
       <file name="$USER_HOME$/Workspace/sentbe-rails-restful/app/mailers/user_notifier.rb" timestamp="1498719515050">
         <mark key="'" line="107" column="0" />
@@ -64,13 +73,13 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/Workspace/sentbe-rails-restful/config/locales/text_messages/ko.yml" timestamp="1498722781108">
+      <file name="$USER_HOME$/Workspace/sentbe-rails-restful/config/locales/text_messages/ko.yml" timestamp="1498790458771">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="21" column="29" />
         <mark key="^" line="21" column="29" />
         <mark key="." line="21" column="29" />
       </file>
-      <file name="$USER_HOME$/Workspace/sentbe-rails-restful/config/locales/text_messages/zh.yml" timestamp="1498715816178">
+      <file name="$USER_HOME$/Workspace/sentbe-rails-restful/config/locales/text_messages/zh.yml" timestamp="1498790517619">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="6" />
@@ -84,8 +93,18 @@
         <mark key="." line="109" column="0" />
         <mark key="^" line="77" column="5" />
       </file>
-      <file name="$USER_HOME$/Workspace/sentbe-rails-restful/app/controllers/application_controller.rb" timestamp="1498787853451">
+      <file name="$USER_HOME$/Workspace/sentbe-rails-restful/app/controllers/application_controller.rb" timestamp="1498789062833">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/sentbe-rails-restful/app/controllers/users_controller.rb" timestamp="1498789587788">
+        <mark key="'" line="176" column="12" />
+        <mark key="[" line="176" column="0" />
+        <mark key="]" line="176" column="52" />
+      </file>
+      <file name="$USER_HOME$/Workspace/sentbe-rails-restful/app/models/verification.rb" timestamp="1498790756350">
+        <mark key="'" line="73" column="29" />
+        <mark key="[" line="73" column="29" />
+        <mark key="]" line="73" column="48" />
       </file>
       <file name="$USER_HOME$/Workspace/sentbe-rails-restful/app/notifier/verification_mailer.rb" timestamp="1498722698516" />
       <file name="$USER_HOME$/Workspace/sentbe-rails-restful/app/notifier/transfer_notifier.rb" timestamp="1498780538449">
@@ -95,29 +114,6 @@
       <file name="$USER_HOME$/Workspace/sentbe-rails-restful/app/notifier/transfer_mailer.rb" timestamp="1498722727775" />
     </filemarks>
     <jumps>
-      <jump line="54" column="14" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/mailers/user_mailer.rb" />
-      <jump line="12" column="31" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/mailers/user_mailer.rb" />
-      <jump line="151" column="2" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/controllers/users_controller.rb" />
-      <jump line="122" column="5" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/controllers/users_controller.rb" />
-      <jump line="133" column="0" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/controllers/users_controller.rb" />
-      <jump line="211" column="0" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/controllers/users_controller.rb" />
-      <jump line="104" column="4" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/controllers/users_controller.rb" />
-      <jump line="25" column="6" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/controllers/users_controller.rb" />
-      <jump line="163" column="53" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/controllers/users_controller.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/controllers/users_controller.rb" />
-      <jump line="129" column="4" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/controllers/users_controller.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/Workspace/sentbe-rails-restful/Gemfile" />
-      <jump line="78" column="5" filename="$USER_HOME$/Workspace/sentbe-rails-restful/Gemfile" />
-      <jump line="0" column="2" filename="$USER_HOME$/Workspace/sentbe-rails-restful/config/initializers/bitly.rb" />
-      <jump line="101" column="2" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/mailers/user_mailer.rb" />
-      <jump line="213" column="2" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/controllers/users_controller.rb" />
-      <jump line="15" column="18" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/controllers/users_controller.rb" />
-      <jump line="33" column="16" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/controllers/users_controller.rb" />
-      <jump line="67" column="7" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/models/user.rb" />
-      <jump line="84" column="2" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/models/user.rb" />
-      <jump line="100" column="2" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/models/user.rb" />
-      <jump line="64" column="6" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/models/user.rb" />
-      <jump line="86" column="16" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/models/user.rb" />
       <jump line="231" column="36" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/models/user.rb" />
       <jump line="229" column="6" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/models/user.rb" />
       <jump line="232" column="8" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/models/user.rb" />
@@ -167,11 +163,8 @@
       <jump line="58" column="29" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/controllers/application_controller.rb" />
       <jump line="8" column="19" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/controllers/application_controller.rb" />
       <jump line="197" column="4" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/controllers/users_controller.rb" />
-      <jump line="10" column="29" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/notifier/user_notifier.rb" />
-      <jump line="92" column="0" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/notifier/user_notifier.rb" />
       <jump line="29" column="16" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/notifier/user_notifier.rb" />
       <jump line="94" column="0" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/notifier/user_notifier.rb" />
-      <jump line="7" column="14" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/notifier/user_notifier.rb" />
       <jump line="98" column="0" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/notifier/user_notifier.rb" />
       <jump line="64" column="0" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/notifier/user_notifier.rb" />
       <jump line="101" column="0" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/notifier/user_notifier.rb" />
@@ -181,11 +174,8 @@
       <jump line="99" column="0" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/notifier/user_notifier.rb" />
       <jump line="85" column="20" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/notifier/user_notifier.rb" />
       <jump line="93" column="0" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/notifier/user_notifier.rb" />
-      <jump line="104" column="0" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/notifier/user_notifier.rb" />
       <jump line="16" column="0" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/notifier/user_notifier.rb" />
       <jump line="95" column="0" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/notifier/user_notifier.rb" />
-      <jump line="107" column="0" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/notifier/user_notifier.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/notifier/user_notifier.rb" />
       <jump line="30" column="6" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/notifier/transfer_notifier.rb" />
       <jump line="26" column="0" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/notifier/transfer_notifier.rb" />
       <jump line="40" column="0" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/notifier/transfer_notifier.rb" />
@@ -195,6 +185,35 @@
       <jump line="227" column="0" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/controllers/application_controller.rb" />
       <jump line="38" column="9" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/controllers/application_controller.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/controllers/application_controller.rb" />
+      <jump line="15" column="0" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/notifier/user_notifier.rb" />
+      <jump line="104" column="0" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/notifier/user_notifier.rb" />
+      <jump line="3" column="14" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/notifier/user_notifier.rb" />
+      <jump line="68" column="12" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/controllers/users_controller.rb" />
+      <jump line="207" column="8" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/controllers/users_controller.rb" />
+      <jump line="176" column="12" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/controllers/users_controller.rb" />
+      <jump line="74" column="47" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/models/verification.rb" />
+      <jump line="168" column="18" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/models/verification.rb" />
+      <jump line="177" column="18" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/models/verification.rb" />
+      <jump line="192" column="18" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/models/verification.rb" />
+      <jump line="7" column="7" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/notifier/user_notifier.rb" />
+      <jump line="102" column="0" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/notifier/user_notifier.rb" />
+      <jump line="107" column="0" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/notifier/user_notifier.rb" />
+      <jump line="10" column="0" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/notifier/user_notifier.rb" />
+      <jump line="92" column="0" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/notifier/user_notifier.rb" />
+      <jump line="77" column="0" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/notifier/user_notifier.rb" />
+      <jump line="8" column="3" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/notifier/user_notifier.rb" />
+      <jump line="87" column="14" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/notifier/user_notifier.rb" />
+      <jump line="116" column="0" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/notifier/user_notifier.rb" />
+      <jump line="43" column="4" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/notifier/user_notifier.rb" />
+      <jump line="80" column="29" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/notifier/user_notifier.rb" />
+      <jump line="115" column="0" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/notifier/user_notifier.rb" />
+      <jump line="53" column="29" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/models/verification.rb" />
+      <jump line="73" column="29" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/models/verification.rb" />
+      <jump line="32" column="9" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/notifier/user_notifier.rb" />
+      <jump line="103" column="0" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/notifier/user_notifier.rb" />
+      <jump line="22" column="0" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/notifier/user_notifier.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/notifier/user_notifier.rb" />
+      <jump line="117" column="0" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/notifier/user_notifier.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -204,56 +223,54 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>user_mailer</text>
+        <text>mail</text>
       </register>
       <register name="/" type="4">
-        <text>UserNo</text>
+        <text>verification_success</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmICFhcmdzWzBdWzplbmNyeXB0aW9uXS5uaWw/IGFuZCBhcmdzWzBdWzplbmNyeXB0aW9uXSA9PSBmYWxzZQo=</text>
+        <text encoding="base64">ICAgIHNlbmRfbm90aSh1c2VyLCBtZXRob2QsIHt9KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIGFyZ3NbMF1bOmVuY3J5cHRpb25dLnByZXNlbnQ/IGFuZCBhcmdzWzBdWzplbmNyeXB0aW9uXSA9PSB0cnVlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIGFyZ3NbMF1bOmVuY3J5cHRpb25dLnByZXNlbnQ/IGFuZCBhcmdzWzBdWzplbmNyeXB0aW9uXSA9PSB0cnVlCg==</text>
+        <text encoding="base64">ICAgIHNlbmRfbWFpbCh1c2VyKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHNlbmRfbWFpbCh1c2VyKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNlbmRfbWFpbCh1c2VyKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNlbmRfbWFpbCh1c2VyKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNlbmRfbm90aSh1c2VyLCBtZXRob2QsIHt9KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNlbmRfbWFpbCh1c2VyKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNlbmRfbWFpbCh1c2VyKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEkxOG4ud2l0aF9sb2NhbGUodXNlci5sb2NhbGUpIGRvCiAgICAgIG1haWwoOnRvID0+IHVzZXIuZW1haWwsCiAgICAgICAgICAgOnN1YmplY3QgPT4gdCgiLnN1YmplY3QiKSkKICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgIHNlbmRfbWFpbCh1c2VyKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>UserNo</last-search>
+      <last-search>verification_success</last-search>
       <last-offset />
-      <last-pattern>UserNo</last-pattern>
+      <last-pattern>verification_success</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>url</entry>
-        <entry encoding="base64">XDx0aXRsZVw+</entry>
         <entry>private</entry>
         <entry>nginx</entry>
         <entry>def update</entry>
@@ -270,8 +287,10 @@
         <entry>delay</entry>
         <entry>send_unlock_token_email</entry>
         <entry>activation_needed</entry>
-        <entry>Notifier</entry>
         <entry>UserNo</entry>
+        <entry>Notifier</entry>
+        <entry>after_verified</entry>
+        <entry>verification_success</entry>
       </history-search>
       <history-cmd>
         <entry>123</entry>
