@@ -94,6 +94,7 @@
         <mark key="." line="133" column="2" />
         <mark key="^" line="133" column="2" />
       </file>
+      <file name="$USER_HOME$/Workspace/sentbe-rails-restful/Dockerfile" timestamp="1498812114894" />
       <file name="/Dummy.txt" timestamp="1498553181129">
         <mark key="[" line="0" column="0" />
       </file>
@@ -136,8 +137,8 @@
         <mark key="]" line="123" column="131" />
         <mark key="." line="123" column="131" />
       </file>
-      <file name="$USER_HOME$/Workspace/sentbe-rails-restful/app/controllers/application_controller.rb" timestamp="1498810628963">
-        <mark key="'" line="241" column="0" />
+      <file name="$USER_HOME$/Workspace/sentbe-rails-restful/app/controllers/application_controller.rb" timestamp="1498812606217">
+        <mark key="'" line="242" column="0" />
         <mark key="[" line="63" column="0" />
         <mark key="]" line="68" column="14" />
         <mark key="." line="69" column="0" />
@@ -194,9 +195,6 @@
       <file name="$USER_HOME$/Workspace/sentbe-rails-restful/app/notifier/transfer_mailer.rb" timestamp="1498722727775" />
     </filemarks>
     <jumps>
-      <jump line="104" column="0" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/notifier/user_notifier.rb" />
-      <jump line="68" column="12" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/controllers/users_controller.rb" />
-      <jump line="207" column="8" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/controllers/users_controller.rb" />
       <jump line="74" column="47" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/models/verification.rb" />
       <jump line="168" column="18" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/models/verification.rb" />
       <jump line="177" column="18" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/models/verification.rb" />
@@ -294,6 +292,9 @@
       <jump line="78" column="5" filename="$USER_HOME$/Workspace/sentbe-rails-restful/Gemfile" />
       <jump line="12" column="12" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/mailers/user_mailer.rb" />
       <jump line="133" column="0" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/mailers/user_mailer.rb" />
+      <jump line="66" column="17" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/controllers/application_controller.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/controllers/application_controller.rb" />
+      <jump line="242" column="0" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/controllers/application_controller.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
