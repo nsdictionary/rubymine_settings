@@ -90,12 +90,8 @@
         <mark key="." line="109" column="0" />
         <mark key="^" line="77" column="5" />
       </file>
-      <file name="$USER_HOME$/Workspace/sentbe-rails-restful/app/controllers/application_controller.rb" timestamp="1498722022086">
+      <file name="$USER_HOME$/Workspace/sentbe-rails-restful/app/controllers/application_controller.rb" timestamp="1498785847883">
         <mark key="'" line="8" column="19" />
-        <mark key="[" line="58" column="29" />
-        <mark key="]" line="58" column="51" />
-        <mark key="^" line="186" column="100" />
-        <mark key="." line="56" column="38" />
       </file>
       <file name="$USER_HOME$/Workspace/sentbe-rails-restful/app/notifier/verification_mailer.rb" timestamp="1498722698516" />
       <file name="$USER_HOME$/Workspace/sentbe-rails-restful/app/notifier/transfer_notifier.rb" timestamp="1498780538449">
@@ -220,16 +216,16 @@
         <text>UserNo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBkZWYgZXhwaXJlZCh0cmFuc2ZlcikKICAgIEB0cmFuc2ZlciA9IHRyYW5zZmVyCiAgICBJMThuLndpdGhfbG9jYWxlKEB0cmFuc2Zlci51c2VyLmxvY2FsZSkgZG8KICAgICAgbWFpbCg6dG8gPT4gQHRyYW5zZmVyLnVzZXIuZW1haWwsCiAgICAgICAgICAgOnN1YmplY3QgPT4gdCgiLnN1YmplY3QiKSkKICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgIGlmICFhcmdzWzBdWzplbmNyeXB0aW9uXS5uaWw/IGFuZCBhcmdzWzBdWzplbmNyeXB0aW9uXSA9PSBmYWxzZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGlmIGFyZ3NbMF1bOmVuY3J5cHRpb25dLnByZXNlbnQ/IGFuZCBhcmdzWzBdWzplbmNyeXB0aW9uXSA9PSB0cnVlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIGFyZ3NbMF1bOmVuY3J5cHRpb25dLnByZXNlbnQ/IGFuZCBhcmdzWzBdWzplbmNyeXB0aW9uXSA9PSB0cnVlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -241,13 +237,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEkxOG4ud2l0aF9sb2NhbGUodXNlci5sb2NhbGUpIGRvCiAgICAgIG1haWwoOnRvID0+IHVzZXIuZW1haWwsCiAgICAgICAgICAgOnN1YmplY3QgPT4gdCgiLnN1YmplY3QiKSkKICAgIGVuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAjICAgSTE4bi53aXRoX2xvY2FsZSh1c2VyLmxvY2FsZSkgZG8KICAjICAgICBtYWlsKDp0byA9PiB1c2VyLmVtYWlsLAogICMgICAgICAgICAgOnN1YmplY3QgPT4gdCgiLnN1YmplY3QiKSkKICAjICAgZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEkxOG4ud2l0aF9sb2NhbGUodXNlci5sb2NhbGUpIGRvCiAgICAgIG1haWwoOnRvID0+IHVzZXIuZW1haWwsCiAgICAgICAgICAgOnN1YmplY3QgPT4gdCgiLnN1YmplY3QiKSkKICAgIGVuZAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -298,6 +294,7 @@
         <entry>55</entry>
         <entry>198</entry>
         <entry>59</entry>
+        <entry>196</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
