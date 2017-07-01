@@ -6,14 +6,43 @@
       <file name="/Dummy.txt" timestamp="1498915909256">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/sentbe-rails-restful/app/controllers/application_controller.rb" timestamp="1498917863703">
+        <mark key="'" line="219" column="0" />
+        <mark key="[" line="11" column="26" />
+        <mark key="]" line="12" column="5" />
+        <mark key="^" line="12" column="5" />
+        <mark key="." line="12" column="5" />
+      </file>
     </filemarks>
-    <jumps />
-    <registers />
+    <jumps>
+      <jump line="156" column="11" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/controllers/application_controller.rb" />
+      <jump line="29" column="34" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/controllers/application_controller.rb" />
+      <jump line="137" column="16" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/controllers/application_controller.rb" />
+      <jump line="17" column="0" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/controllers/application_controller.rb" />
+      <jump line="218" column="0" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/controllers/application_controller.rb" />
+      <jump line="139" column="21" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/controllers/application_controller.rb" />
+      <jump line="163" column="21" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/controllers/application_controller.rb" />
+      <jump line="22" column="71" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/controllers/application_controller.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/controllers/application_controller.rb" />
+      <jump line="219" column="0" filename="$USER_HOME$/Workspace/sentbe-rails-restful/app/controllers/application_controller.rb" />
+    </jumps>
+    <registers>
+      <register name=":" type="4">
+        <text>q</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>q</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed J</text>
