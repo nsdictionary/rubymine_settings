@@ -272,6 +272,14 @@
         <root url="file:///usr/local/opt/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/bcrypt-3.1.11/lib" />
       </SOURCES>
     </library>
+    <library name="bitly (v0.10.4, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/opt/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/bitly-0.10.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/opt/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/bitly-0.10.4/lib" />
+      </SOURCES>
+    </library>
     <library name="builder (v3.2.2, rbenv: 2.3.1) [gem]">
       <CLASSES>
         <root url="file:///usr/local/opt/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/builder-3.2.2/lib" />
@@ -1224,6 +1232,22 @@
       </CLASSES>
       <SOURCES>
         <root url="file:///usr/local/opt/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/globalid-0.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="httparty (v0.13.7, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/opt/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/httparty-0.13.7/bin" />
+        <root url="file:///usr/local/opt/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/httparty-0.13.7/lib" />
+        <root url="file:///usr/local/opt/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/httparty-0.13.7/script" />
+        <root url="file:///usr/local/opt/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/httparty-0.13.7/website" />
+        <root url="file:///usr/local/opt/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/httparty-0.13.7/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/opt/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/httparty-0.13.7/bin" />
+        <root url="file:///usr/local/opt/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/httparty-0.13.7/lib" />
+        <root url="file:///usr/local/opt/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/httparty-0.13.7/script" />
+        <root url="file:///usr/local/opt/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/httparty-0.13.7/website" />
+        <root url="file:///usr/local/opt/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/httparty-0.13.7/features" />
       </SOURCES>
     </library>
     <library name="i18n (v0.7.0, rbenv: 2.3.1) [gem]">
@@ -2844,6 +2868,18 @@
         <root url="file:///usr/local/opt/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/thread_safe-0.3.6/lib" />
         <root url="file:///usr/local/opt/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/thread_safe-0.3.6/tasks" />
         <root url="file:///usr/local/opt/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/thread_safe-0.3.6/yard-template" />
+      </SOURCES>
+    </library>
+    <library name="tmuxinator (v0.9.0, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/opt/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/tmuxinator-0.9.0/bin" />
+        <root url="file:///usr/local/opt/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/tmuxinator-0.9.0/lib" />
+        <root url="file:///usr/local/opt/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/tmuxinator-0.9.0/completion" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/opt/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/tmuxinator-0.9.0/bin" />
+        <root url="file:///usr/local/opt/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/tmuxinator-0.9.0/lib" />
+        <root url="file:///usr/local/opt/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/tmuxinator-0.9.0/completion" />
       </SOURCES>
     </library>
     <library name="tmuxinator (v0.9.0, rbenv: 2.4.1) [gem]">
